@@ -1,6 +1,6 @@
 # AvadaLiftCoach
 
-<a href="https://sepidezomorodiweb.github.io/AvadaLiftCoach/>Online Demo</a>
+<a href="https://sepidezomorodiweb.github.io/AvadaLiftCoach/">Online Demo</a>
 
 Developed By Sepide Zomorodi
 
