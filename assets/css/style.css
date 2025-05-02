@@ -1,0 +1,64 @@
+.navbar{
+    background-color: #fcf7f6;
+}
+
+.btn-1{
+    background-color: #f1642b;
+    color: white;
+}
+
+.nav-link{
+    &:hover{
+        color: #f1642b
+    }
+}
+
+
+.first-text{
+    color: #3b3a64;
+    text-align: center;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.btn{
+    color: white;
+    background-color: #3b3a64;
+    &:hover{
+        background-color: #f1642b;
+    }
+}
+
+.w-100{
+    width: 350px;
+    height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.part3{
+    width: 100%;
+    height: 450px;
+}
+
+.btn-3{
+    background-color: #f1642b;
+    &:hover{
+        background-color: #3b3a64;
+    }
+}
+
+.part2{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.part3{
+   margin-top: 150px;
+   margin-bottom: 100px; 
+}
+
+.part4{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
